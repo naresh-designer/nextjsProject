@@ -1,0 +1,15 @@
+.navBody ul{
+    display: flex;
+    gap:30px;
+    font-family: var(--font-roboto-mono);
+    letter-spacing: 1px;
+}
+.navBody ul li a{
+    color: var(--blackBg);
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: all .5s;
+}
+.navBody ul li a:hover{
+    color: var(--accentBg);
+}

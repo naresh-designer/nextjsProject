@@ -1,0 +1,21 @@
+.logo{
+    font-size: 40px;
+    font-family: var(--font-roboto-mono);
+    text-transform: uppercase;
+}
+.logo a {
+    color: var(--blackBg);
+    text-decoration: none;
+    transition: all .5s;
+}
+.logo a:hover {
+    color: var(--accentBg);
+    text-decoration: none;
+}
+.online{
+    color: var(--accentBg);
+    transition: all .5s;
+}
+.logo a:hover .online {
+    color: var(--blackBg);
+}

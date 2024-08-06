@@ -1,0 +1,13 @@
+.heroBg{
+    background-color: var(--grayBg);
+    padding: 20px 0;
+    margin-bottom: 70px;
+}
+.hero_content h1 {
+    font-size: 100px;
+    line-height: 100px;
+    margin-bottom: 30px;
+}
+.hero_button{
+    margin-top: 30px;
+}
